@@ -36,6 +36,7 @@ address {
 
 img {
   display: block;
+  
 }
 
 .list {
@@ -56,6 +57,10 @@ img {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
+}
+
+@media screen and (min-width: 428px) {
+  
 }
 
 /* header */
